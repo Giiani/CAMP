@@ -1,0 +1,6 @@
+HC06.c:29:6:delay_bt	16	static
+HC06.c:33:6:inicializarBluetooth	40	static
+HC06.c:76:9:blue_getc	16	static
+HC06.c:90:6:blue_Putc	16	static
+HC06.c:96:6:blue_Puts	16	static
+HC06.c:107:6:blue_gets	40	static
